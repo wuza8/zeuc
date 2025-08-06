@@ -1,0 +1,85 @@
+{
+    "name":"Peryferia",
+    "link":"peripherals",
+    "subcategories":[
+        {
+            "name":"Klawiatury",
+            "link":"keyboard",
+            "description":"Trzeszczące, łatwo brudzące urządzenia, zawsze w zasięgu ręki każdego komputerowego świra. Poniżej znajdziesz najlepsze nasze produkty, abyś chociaż przynajmniej miał wrażenie, że się staraliśmy."
+        },
+        {
+            "name":"Myszki",
+            "link":"mouse",
+            "description":"Swoją nazwę zawdzięczają niesławnemu zwierzęciu, kojarzącego się z obrzydlistwem. Poniżej wszystkie nasze produkty tego typu, bleh..."
+        },
+        {
+            "name":"Drukarki",
+            "link":"printers",
+            "description":"Urządzenia, obsługujące wymarłą technologię informatyczną, opierającą się na brudzeniu płynną substancją kawałka drewna. Poniżej znajdziesz parę naszych rozwiązań tej \"technologii\"."
+        },
+        {
+            "name":"Skanery",
+            "link":"scanners",
+            "description":"Wraz z drukarką tworzą zespół wejścia/wyjścia dla technologii zapisu danych na drzewie. Poniżej znajdziesz idealne urządzenia do swojego repertuaru robotów drzewnych."
+        },
+        {
+            "name":"Monitory",
+            "link":"monitors",
+            "description":"Świecą w oczy z różną intensywnością, zależną od wyjścia twojego komputera. Poniżej znajdują się same perły od naszych dostawców tego typu sprzętu."
+        }
+    ]
+}
+
+{
+    "name":"Audio",
+    "link":"audio",
+    "subcategories":[
+        {
+            "name":"Słuchawki",
+            "link":"headphones",
+            "description":"Na pewno myślałeś kiedyś o tym, żeby reszta twojej rodziny, znajomych czy ogólnie ludzi, którzy siedzą wokół ciebie, nie słyszeli tego, co oglądasz na swoim komputerze, laptopie, smartfonie. Oto remedium dla tego typu scenariuszy! Wystarczy, że założysz jeden z naszych poniższych gadżetów na głowę, wciśniesz specjalny kabel do swojego urządzenia i klikniejsz guzik \"Play\" na swoim odtwarzaczu, tworząc swoją prywatną przestrzeń audio."
+        },
+        {
+            "name":"Głośniki",
+            "link":"speakers",
+            "description":"Potrzebne ci jest mocne audio, aby twój gust muzyczny poznało jak najwięcej osób? Idealne rozwiązania dla ciebie czekają poniżej."
+        },
+        {
+            "name":"Mikrofony",
+            "link":"microphones",
+            "description":"Poza szumem i trzaskami, czasami pozwala na zarejestrowanie dźwięków w twoim otoczeniu. Poniżej znajdują się urządzenia tego typu."
+        },
+        {
+            "name":"Karty dźwiękowe",
+            "link":"audio-cards",
+            "description":"Masz dużo słuchawek i nie wiesz co z nimi zrobić? Dzięki naszym kartom audio będziesz mógł używać wszystkich ich na raz przy pomocy jednego konkutera."
+        }
+    ]
+}
+
+{
+    "name":"Podzespoły",
+    "link":"components",
+    "subcategories":[
+        {
+            "name":"Pamięci RAM",
+            "link":"ram-memory",
+            "description":"Dobra pamięć to podstawa! Oferujemy najlepsze pamięci, które nie zapominają, nie psują się i trzymają stan. Poniżej znajdują się produkty, wyspecjalizowane dla nowicjuszy jak i dla hardcorowych użytkowników sprzętu komputerowego. Ostrożnie wybieraj sprzęt, bo zwrotów nie oferujemy!"
+        },
+        {
+            "name":"Dyski SSD",
+            "link":"ssd-drives",
+            "description":"Swoją nazwę zawdzięczają kształtowi starych urządzeń tego typu. Kształt \"dysku\" najbardziej przypomina kształ tależa, jednak bez wygiętych rogów - jest on idealnie płaski. Poniżej nie znajdziesz tego typu dysków, ale i tak warto."
+        },
+        {
+            "name":"Karty graficzne",
+            "link":"graphics-cards",
+            "description":"Znane z opowieści o \"gamerach\" urządzenia do generowania pikseli na ekranie. Poniżej znajdziesz coś dla siebie, produkty dla noobów jak i dla hardcore gamerów."
+        },
+        {
+            "name":"Procesory",
+            "link":"processors",
+            "description":"Klocki w srebrzystej obudowie, wykorzystywane do uruchamiania systemu operacyjnego Windows. Poniżej znajdują się tego typu komponenty."
+        }
+    ]
+}

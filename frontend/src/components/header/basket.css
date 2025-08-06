@@ -1,0 +1,27 @@
+.basket{
+  float:right;
+  margin-right:20px;
+  position: relative;
+}
+.basket-icon{
+    height:40px;
+    padding:20px;
+}
+.basket-number {
+  position: absolute;
+  top: 37%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+  font-size: 12px;
+  font-weight: bold;
+}
+.basket:hover .basket-icon{
+  cursor: pointer;
+  height:45px;
+  padding:17px;
+}
+.basket:hover .basket-number{
+  cursor: pointer;
+  top: 36%;
+  left: 53%;
+}

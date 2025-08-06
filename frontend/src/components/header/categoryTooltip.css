@@ -1,0 +1,27 @@
+.category-tooltip {
+  position: absolute;
+  top: 80px; /* nad przyciskiem */
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  color: black;
+  padding: 6px 12px;
+  border-radius: 0px 0px 5px 5px;
+  white-space: nowrap;
+  opacity: 0.9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  /* pointer-events: none; */
+  transition: opacity 0.3s;
+  z-index: 9999; /* nad headerem */
+  width: calc(100% - 34px);
+  font-size: 14px;
+}
+.category-link{
+  text-decoration:underline;
+  float:left;
+  margin-right:20px;
+}
+.category-link:hover {
+  cursor: pointer;
+  color: #888; /* kolor linku po najechaniu */
+}
